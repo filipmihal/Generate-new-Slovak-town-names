@@ -1,10 +1,10 @@
-#Generate new Slovak town names
-##About
+# Generate new Slovak town names
+## About
 Generating new town names using a LSTM network on Tensorflow TFLearn and a dataset of all town names of Slovakia.
 More info about LSTM: [here](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 Selection of the best names that were generated is located in [output.txt](output.txt)
 
-##Prerequisites
+## Prerequisites
 Python 3.5
 
 You can find all required python packages in [requirements.txt](requirements.txt)<br/>
