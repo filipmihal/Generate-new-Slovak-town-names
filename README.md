@@ -12,7 +12,7 @@ You can find all required python packages in [requirements.txt](requirements.txt
 
 ## Run
 `python data/get_town_list.py` <br/>
-get all Slovak town names from this website and parse them to csv format.
+get all Slovak town names from [this website](http://www.e-obce.sk/zoznam_vsetkych_obci.html) and parse them to csv format.
 
 `python model/name_generator.py` <br/>
 generate new town names and save them to model/output.csv
