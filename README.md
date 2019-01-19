@@ -2,8 +2,8 @@
 ## About
 Generating new town names using a LSTM network on Tensorflow TFLearn and a dataset of all town names of Slovakia.
 More info about LSTM: [here](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) <br/>
-Selection of the best names that were generated is located in [output.txt](output.txt)
-
+Selection of the best names that were generated is located in [output.txt](output.txt) <br/>
+My personal favorites: Parohovce, Semeňov, Bohovce, Nižná Kanov
 ## Prerequisites
 Python 3.5
 
