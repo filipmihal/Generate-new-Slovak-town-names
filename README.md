@@ -4,6 +4,8 @@ Generating new town names using a LSTM network on Tensorflow TFLearn and a datas
 More info about LSTM: [here](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) <br/>
 Selection of the best names that were generated is located in [output.txt](output.txt) <br/>
 My personal favorites: Parohovce, Semeňov, Bohovce, Nižná Kanov
+
+One can use many datasets, for instance: [US first names] (https://data.world/len/us-first-names-database) , [US city names](https://data.mongabay.com/igapo/US.htm)
 ## Prerequisites
 Python 3.5
 
@@ -16,3 +18,4 @@ get all Slovak town names from [this website](http://www.e-obce.sk/zoznam_vsetky
 
 `python model/name_generator.py` <br/>
 generate new town names and save them to model/output.csv
+
