@@ -5,7 +5,7 @@ More info about LSTM: [here](http://colah.github.io/posts/2015-08-Understanding-
 Selection of the best names that were generated is located in [output.txt](output.txt) <br/>
 My personal favorites: Parohovce, Semeňov, Bohovce, Nižná Kanov
 
-One can use many datasets, for instance: [US first names] (https://data.world/len/us-first-names-database) , [US city names](https://data.mongabay.com/igapo/US.htm)
+One can use many datasets, for instance: [US first names](https://data.world/len/us-first-names-database) , [US city names](https://data.mongabay.com/igapo/US.htm)
 ## Prerequisites
 Python 3.5
 
